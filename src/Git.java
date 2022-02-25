@@ -9,6 +9,8 @@ public class Git {
     System.out.print("Type your name: ");
     String userInput = scanner.nextLine();
 
+    System.out.print("Type your age: ");
+    int userInput2 = scanner.nextInt();
 
   }
 }
