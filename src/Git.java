@@ -12,5 +12,7 @@ public class Git {
     System.out.print("Type your age: ");
     int userInput2 = scanner.nextInt();
 
+    System.out.printf("Velkommen, " + userInput + "(%d)", userInput2);
+
   }
 }
